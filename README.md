@@ -2,7 +2,7 @@
 
 usage: ``./togif.sh <path/to/file>``
 
-converts a video file to gif. Currently broken for files with spaces.
+converts a video file to gif. 
 
 ## spacer.sh
 
